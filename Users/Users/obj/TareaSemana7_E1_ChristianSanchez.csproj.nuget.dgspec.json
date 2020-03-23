@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\D_Sanchez\\Downloads\\Archive-ccd6\\API_TareaSemana7_E1_ChristianSanchez\\TareaSemana7_E1_ChristianSanchez\\TareaSemana7_E1_ChristianSanchez\\TareaSemana7_E1_ChristianSanchez.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\D_Sanchez\\Downloads\\Archive-ccd6\\API_TareaSemana7_E1_ChristianSanchez\\TareaSemana7_E1_ChristianSanchez\\TareaSemana7_E1_ChristianSanchez\\TareaSemana7_E1_ChristianSanchez.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\D_Sanchez\\Downloads\\Archive-ccd6\\API_TareaSemana7_E1_ChristianSanchez\\TareaSemana7_E1_ChristianSanchez\\TareaSemana7_E1_ChristianSanchez\\TareaSemana7_E1_ChristianSanchez.csproj",
+        "projectName": "TareaSemana7_E1_ChristianSanchez",
+        "projectPath": "C:\\Users\\D_Sanchez\\Downloads\\Archive-ccd6\\API_TareaSemana7_E1_ChristianSanchez\\TareaSemana7_E1_ChristianSanchez\\TareaSemana7_E1_ChristianSanchez\\TareaSemana7_E1_ChristianSanchez.csproj",
+        "packagesPath": "C:\\Users\\D_Sanchez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\D_Sanchez\\Downloads\\Archive-ccd6\\API_TareaSemana7_E1_ChristianSanchez\\TareaSemana7_E1_ChristianSanchez\\TareaSemana7_E1_ChristianSanchez\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\D_Sanchez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
